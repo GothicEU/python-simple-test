@@ -52,7 +52,7 @@
           },
           "content": "Type in \"var = 0\" in the task.py file.",
           "hints": [
-            "This is a hint."
+            "You might have to create a \"task.py\" file in the main tutorial folder."
           ],
           "solution": {
             "commits": [
