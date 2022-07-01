@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": {
     "title": "Introduction",
-    "description": "This is an introduction to your tutorial. It will show up on the first page when your tutorial is started."
+    "description": "This is test tutorial."
   },
   "config": {
     "testRunner": {
@@ -36,9 +36,9 @@
   "levels": [
     {
       "id": "1",
-      "title": "Create index.html",
-      "summary": "Optional summary for Level 1",
-      "content": "Here's where you can put a description, examples, and instructions for the lesson.",
+      "title": "Create variable \"var\"",
+      "summary": "Create a variable called \"var\" that will have value equal to 0.",
+      "content": "Create a variable called \"var\" that will have value equal to 0.",
       "steps": [
         {
           "id": "1.1",
@@ -50,10 +50,9 @@
               "3eafe61d5ae10358d318c8969c11ae1226ffba79"
             ]
           },
-          "content": "This is the test text. Create an `index.html` file to pass this lesson.",
+          "content": "Type in \"var = 0\" in the task.py file.",
           "hints": [
-            "This is a hint to help people through the test",
-            "Second hint for 1.1, don't worry if the hints don't show up yet"
+            "This is a hint."
           ],
           "solution": {
             "commits": [
