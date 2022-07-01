@@ -12,4 +12,4 @@ Type in "var = 0" in the task.py file.
 
 #### HINTS
 
-- This is a hint.
+- You might have to create a "task.py" file in the main tutorial folder.
