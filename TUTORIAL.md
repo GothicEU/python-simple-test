@@ -1,18 +1,15 @@
 # Introduction
 
-This is an introduction to your tutorial. It will show up on the first page when your tutorial is started.
+This is test tutorial.
 
-## 1. Create index.html
+## 1. Create variable "var"
 
-> Optional summary for Level 1
-
-Here's where you can put a description, examples, and instructions for the lesson.
+Create a variable called "var" that will have value equal to 0.
 
 ### 1.1 Level 1 Step 1
 
-This is the test text. Create an `index.html` file to pass this lesson.
+Type in "var = 0" in the task.py file.
 
 #### HINTS
 
-- This is a hint to help people through the test
-- Second hint for 1.1, don't worry if the hints don't show up yet
+- This is a hint.
